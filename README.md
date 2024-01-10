@@ -4,5 +4,10 @@ Esse servidor criado com nodejs controla as rodadas e indica o momento em que ca
 A cada requisição ao servidor será respondida com uma mensagem dizendo quem é o jogador da vez.
 
 **Exemplo Jogador 1, Indice [0]**
+
 ![Captura de tela 2024-01-10 162011](https://github.com/AleksandraPereira/Projetos_JS_github/assets/121905245/d55bb775-418b-4f6f-92da-4cc7287c2643)
+
+**Exemplo Jogador 2, Indice [1]** 
+
+![Captura de tela 2024-01-10 165632](https://github.com/AleksandraPereira/Projetos_JS_github/assets/121905245/e1746f10-a001-4a03-95e3-383f130643ed)
 
